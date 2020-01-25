@@ -1,2 +1,2 @@
 # Communication-system
-Communication system specially designed for people with speech disorders
+ During my undergraduate program, I worked with a microcontroller (FRDM KL25Z), in order to develop a communication system specially designed for people with speech disorders. The general idea was to use an accelerometer from the microcontroller and connect it by Bluetooth with a smartphone. This would allow small movements in the board to send messages like ‘yes’, ’no’, ’hungry’, ’bathroom’ to the smartphone, enabling an easier communication between patient and caregiver.
